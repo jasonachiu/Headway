@@ -8,6 +8,7 @@
   <p> Jason Chiu, Visual Editor </p>
   <p> Terry Parris Jr., Public Square Editor </p>
   <p> Eve Lyons, Photo Editor </p>
+  <p> Eric Copage, Engagement embed </p>
   <p> Lucy Tompkins, Headway Fellow </p>
   <p> Susan Shain, Headway Fellow </p>
   <p> Aidan Gardiner, Headway Fellow </p>
